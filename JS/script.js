@@ -61,7 +61,7 @@ ScrollReveal({
 
     //  typed js
     const typed = new Typed('.multiple-text', {
-        strings: ['Frontend Developer', 'Frontend Developer', 'Frontend Developer'],
+        strings: ['Frontend Developer', 'Programmer', 'DSA Enthusiast'],
         typeSpeed: 100,
         backSpeed: 100,
         backDelay: 1000,
